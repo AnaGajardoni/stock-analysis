@@ -10,9 +10,14 @@ The purpose of this project is to analyse stocks from green energy companies (in
 
 ## Technical Purpose  
 On the technical side, the purpose was to refactor a macro that we had written after following the step-by-step in the online modules. According to Wiktionary, refactor in programming means "To rewrite existing source code in order to improve its readability, reusability or structure without affecting its meaning or behaviour" (https://en.wiktionary.org/wiki/refactor).
-
+In our case, the idea was to improve our macro so as to:
+- make it faster by using loops more efficiently (measured by a timer);
+- make useful comments to improve readbility;
+- substitute hard-coded values by variables that could be easily changed, therefore making the final code easier to mantain should a change be needed.
 
 ## Results
+
+
 
 
 
