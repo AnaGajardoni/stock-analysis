@@ -1,7 +1,7 @@
 # VBA of Wall Street
 
 ## Overview of Project
-Steve has just graduated with his finance degree and is helping his parents, who are passionate about green energy, to invest their money. Steve's parents decided to invest all their savings in DAQO New Energy Corp - a company that makes silicon waferS for solar panels, but, Steve, believes in diversification and wants to advise his parents on the best deal. 
+Steve has just graduated with his finance degree and is helping his parents, who are passionate about green energy, to invest their money. Steve's parents decided to invest all their savings in DAQO New Energy Corp - a company that makes silicon wafers for solar panels, but Steve believes in diversification and wants to advise his parents on the best deal instead. 
 
 ### Purpose
 The purpose of this project is to analyse stocks from green energy companies (including DAQO) to find out:
