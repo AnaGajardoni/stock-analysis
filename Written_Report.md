@@ -22,8 +22,8 @@ The stock analysis was straighforward: to compare starting and ending prices for
 
 Below are the charts for 2017 and 2018 - which show the stock value for the 12 companies. As we can see 
 
-![StocksProgress2017](/resources/StocksProgress2017.png)
-![StocksProgress2018](/resources/StocksProgress2018.png)
+![StocksProgress2017](../resources/StocksProgress2017.png)
+![StocksProgress2018](../resources/StocksProgress2018.png)
 
 
 ## Summary
