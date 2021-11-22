@@ -52,7 +52,6 @@ The results for the refactoring can be easily seen by how long each macro took t
 The refactored version took a little over than 15% of the time the first version took. This is easily explained by the fact that the first version would loop all the rows in the spreadsheet for each different stock whereas the refactored one would collect all the information such as volume, starting and ending prices in a single loop. This result may seem harmless given our subset was tiny and even the inefficient version ran in under two seconds, however, in real life, datasets are significantly larger and performance is very important.
 
 ## Summary
-
-
+In this project, we needed to help Steve understand about green companies stocks so he could better advise his parents on how to invest their money. For that, Steve got us data from 12 companies' stocks in an Excel spreadsheet and we created VBA macros to extract starting and ending prices as well as volume of trade. Lastly, we also refactored the macro we first wrote reducing its run time to less than 20% of the original, which in real world is very important.
 
 
