@@ -36,7 +36,7 @@ The results for the refactoring can be easily seen the macro took to run in the 
 ![AnalysisAllStocksTimer](/resources/AnalysisAllStocksTimer.png)
 ![AnalysisAllStocksRefactoredTimer](/resources/AnalysisAllStocksRefactoredTimer.png)
 
-
+The refactored version took a little over than 15% of the time the first version took. This is easily explained by the fact that the first version would loop all the rows in the spreadsheet for each different stock whereas the refactored one would collect all the information such as volume, starting and ending prices in a single loop. This result may seem harmless given our subset was tiny and even the inefficient version ran in under two seconds, however, in real life, datasets are significantly larger and performance is very important.
 
 ### Summary
 
