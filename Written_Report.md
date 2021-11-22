@@ -31,7 +31,7 @@ The following charts show the exact curve within the two years we are studying. 
 ![StocksProgress2018](/resources/StocksProgress2018.png)
 
 ### Refactoring Analysis
-The results for the refactoring can be easily seen the macro took to run in the two scenarios:
+The results for the refactoring can be easily seen by how long each macro took to run in the two scenarios:
 
 ![AnalysisAllStocksTimer](/resources/AnalysisAllStocksTimer.png)
 ![AnalysisAllStocksRefactoredTimer](/resources/AnalysisAllStocksRefactoredTimer.png)
