@@ -22,8 +22,8 @@ The stock analysis was straighforward: to compare starting and ending prices for
 
 Below are the charts for 2017 and 2018 - which show the stock value for the 12 companies. As we can see 
 
-![StocksProgress2017](../resources/StocksProgress2017.png)
-![StocksProgress2018](../resources/StocksProgress2018.png)
+![StocksProgress2017](stock-analysis/resources/StocksProgress2017.png)
+![StocksProgress2018](/stock-analysis/resources/StocksProgress2018.png)
 
 
 ## Summary
@@ -42,7 +42,7 @@ On a first analysis, the focus was to understand how relevant Launch Date was to
 
 When examining the chart based on the table created, we can clearly see that May is the most promising month to launch a funding campaign like this. Not only does it have the most successful campaigns, but it is also in May that lies the biggest gap between successful and failed/canceled projects.
 
-![Outcomes_by_Launch_Date](/resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes_by_Launch_Date](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The analysis based on goals, on the other hand, focused on the most successful intervals for goals. The outcomes were split in the following intervals
