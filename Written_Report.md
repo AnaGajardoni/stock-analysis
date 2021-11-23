@@ -34,12 +34,12 @@ The following charts show the exact curve within the two years we are studying. 
 The major difference in our refactoring solution has to do with code efficiency.
 
 In the picture below, we can see an extract of our first solution where there are two nexted FOR loops: the first one covers the stocks (12), and the second one covers the rows in the sheet. In other words, for each stock (each i in the outer FOR loop), ALL rows will be covered in the inner FOR loop, making the total number of rows covered roughly:
-* lines covered = ** number of stocks X number of rows in the spreadsheet **
+* lines covered = **number of stocks X number of rows in the spreadsheet**
 
 ![AllStocksCode](/resources/AllStocksCode.png)
 
 The next picture is an extract of our refactored code. It has just one FOR loop to cover the entire spreadsheet - and a few IF's to check when the Ticker is different from the previous row signalling when to record starting and ending prices as well as incrementing the ticker counter showing the next Ticker. As a result, the total number of rows can be expressed by:
-* lines covered = ** number of rows in the spreadsheet **
+* lines covered = **number of rows in the spreadsheet**
 
 ![AllStocksRefactoredCode](/resources/AllStocksRefactoredCode.png)
 
